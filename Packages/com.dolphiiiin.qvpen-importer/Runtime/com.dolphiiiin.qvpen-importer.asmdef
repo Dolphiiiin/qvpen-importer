@@ -1,9 +1,7 @@
 {
-  "name": "com.dolphiiiin.qvpen-importer.Editor",
+  "name": "com.dolphiiiin.qvpen-importer",
   "references": [
-    "VRC.SDKBase",
-    "VRC.SDKBase.Editor",
-    "com.dolphiiiin.qvpen-importer"
+    "VRC.SDKBase"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],

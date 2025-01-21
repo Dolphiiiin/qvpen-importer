@@ -1,14 +1,18 @@
-﻿{
+{
   "name": "com.dolphiiiin.qvpen-importer",
-  "displayName": "QvPen Improter",
-  "description": "A script to import data exported by QvPenExporter.",
+  "displayName": "QvPen Importer",
   "version": "1.0.0",
+  "description": "A script to import data exported by QvPenExporter.",
+  "dependencies": {},
   "gitDependencies": {},
-  "vpmDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.base": ">=3.7.4"
+  },
   "author": {
     "name": "Dolphiiiin",
-    "email": "dolphiiiin@users.noreply.github.com"
+    "email": "dolphiiiin@users.noreply.github.com",
+    "url": ""
   },
   "legacyFolders": {},
-  "legacyFiles": {}
+  "legacyFiles": {},
 }
