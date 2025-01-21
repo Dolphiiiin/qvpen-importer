@@ -1,0 +1,12 @@
+﻿{
+  "name":"com.dolphiiiin.qvpen-importer",
+  "displayName":"QvPen Improter",
+  "description":"A script to import data exported by QvPenExporter.",
+  "version":"1.0.0",
+  "gitDependencies":{},
+  "vpmDependencies":{
+  },
+  "author":{"name":"Dolphiiiin","email":"dolphiiiin@users.noreply.github.com"},
+  "legacyFolders":{},
+  "legacyFiles":{}
+}
